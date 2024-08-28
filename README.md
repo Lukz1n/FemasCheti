@@ -19,7 +19,6 @@ Desenvolvido por Lucas
 - **HTML5**: Estrutura do site e semântica das páginas.
 - **CSS3**: Estilos visuais e design responsivo.
 - **JavaScript**: Lógica interativa, quizzes e navegação dinâmica.
-- **[Outras Tecnologias]**: Caso tenha utilizado outras ferramentas ou bibliotecas, você pode mencioná-las aqui.
 
 ## Como Utilizar
 
